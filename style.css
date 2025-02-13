@@ -1,0 +1,50 @@
+body {
+    margin: 0; 
+    padding: 0; 
+    height: 100vh; 
+    background: linear-gradient(135deg, #ffcccb, #ff6699); 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.tabela {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+}
+
+.titu {
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border-radius: 10px;
+    background: linear-gradient(135deg, #ffcccb, #ff6699); 
+    width: 100px;
+
+}
+
+.Homem {
+    position: absolute;
+    top: 40%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+}
+
+.Ultimato {
+    position: absolute;
+    top: 70%;
+    left: 57%;
+    transform: translate(-50%, -50%);
+}
