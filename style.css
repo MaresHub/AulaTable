@@ -5,6 +5,7 @@ body {
     background: linear-gradient(135deg, #ffcccb, #ff6699); 
     justify-content: center; 
     align-items: center; 
+    position: relative;
 }
 
 .tabela {
@@ -37,14 +38,15 @@ button {
 
 .Homem {
     position: absolute;
-    top: 40%;
-    left: 57%;
+    top: 30.5%;
+    left: 74%;
     transform: translate(-50%, -50%);
 }
 
 .Ultimato {
     position: absolute;
-    top: 70%;
-    left: 57%;
+    top: 61%;
+    left: 74%;
+    position: relative;
     transform: translate(-50%, -50%);
 }
